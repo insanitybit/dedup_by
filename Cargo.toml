@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["insanitybit <insanitybit@gmail.com>"]
 description = "A helper function for removing consecutive duplicates from a vector of complex types"
 license = "MIT"
-keywords = ["dedup", "dedup_by", "dedup by"]
+keywords = ["dedup", "dedup_by"]
 
 repository = "https://github.com/insanitybit/dedup_by"
 readme = "README.md"
